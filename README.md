@@ -1,2 +1,2 @@
 # Hello-World-
-I want it ti clone for BTC development
+I want it to make a clone of BTC development
