@@ -1,2 +1,2 @@
 # Hello-World-
-I want it to make a clone of BTC development
+This is an Investigation of Cripto Currencies. 
